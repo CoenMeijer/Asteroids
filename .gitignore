@@ -1,0 +1,7 @@
+#ignore files and folders Unity 3D
+Library
+Temp
+*.pidb
+*.userprefs
+*.csproj
+*.sln
